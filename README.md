@@ -43,7 +43,7 @@ npm install
 
 ## Usage
 
-You can access the live site [here](mm-front-end-iii.vercel.app) or start the development server after installation:
+You can access the live site [here](http://mm-front-end-iii.vercel.app) or start the development server after installation:
 
 ```bash
 npm start
